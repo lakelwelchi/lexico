@@ -1,0 +1,14 @@
+BEGIN
+VAR
+A,B,C! REAL;
+A:=2;
+B:=3;
+C:=A+B
+IF (A<2);
+WHILE (B=4)
+A<5;
+C:=A-B
+C:=A*B
+C:=A/B
+C:=A+B
+END
